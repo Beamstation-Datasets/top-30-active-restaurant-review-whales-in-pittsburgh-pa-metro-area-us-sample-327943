@@ -9,9 +9,9 @@
 | Dataset ID | `327943` |
 | Location | Pittsburgh, PA |
 | Category | Restaurants |
-| Full dataset size | 677 records |
-| Free sample size | 67 records (9.9%) |
-| Last export | 2026-04-15T01:20:22.488828+00:00 |
+| Full dataset size | 675 records |
+| Free sample size | 67 records (9.93%) |
+| Last export | 2026-04-22T05:52:21.382105+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-pittsburgh-pa-metro-area-us-sample-327943/releases/download/sample-latest/beamstation_327943_restaurants-us-pittsburghpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
