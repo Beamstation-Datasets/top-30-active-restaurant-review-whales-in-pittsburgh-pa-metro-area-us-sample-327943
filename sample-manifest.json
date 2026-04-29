@@ -1,12 +1,12 @@
 {
-  "export_job_id": "698dcc18-12c3-49a0-9b4a-4f1be93854e4",
+  "export_job_id": "dd45c995-8759-4444-9722-fd19178d6ef5",
   "id_short": 327943,
-  "published_at": "2026-04-22T07:22:03Z",
+  "published_at": "2026-04-29T19:02:47Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-pittsburgh-pa-metro-area-us-sample-327943",
   "sample_asset_name": "beamstation_327943_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/327943/beamstation_327943_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
-  "sample_records": 67,
-  "sample_sha256": "f150faec605717644416763e41181adcca2f3d594cdd80e24561583957d683c6",
-  "sample_size_bytes": 279274,
-  "total_records": 675
+  "sample_records": 145,
+  "sample_sha256": "33104b820c18f9bd8d393e1ed82ef34b7fcba6b4ad6fc7e366e56079c9bc170d",
+  "sample_size_bytes": 583168,
+  "total_records": 1459
 }
